@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //đỗ viết linh
         //IS1202
+        //trần văn hinh
     }
 }
